@@ -37,7 +37,7 @@
         android:fontFamily="@font/inter_semibold"
         android:text="Login"
         android:textAlignment="center"
-        android:textColor="@color/text_color"
+        android:textColor="@color/md_theme_light_primary"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
